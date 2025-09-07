@@ -1,0 +1,6 @@
+Room No,Type,Status
+101,ICU,Occupied
+102,General,Available
+103,Emergency,Available
+104,ICU,Available
+105,General,Occupied
